@@ -7,3 +7,7 @@ CREATE TABLE treinarecife_db.tb_alunos (
     email VARCHAR(255) NOT NULL,
     data_nascimento DATE
 );
+
+INSERT INTO treinarecife_db.tb_alunos
+VALUES (1, "Elisangela", "Alves da Rocha","elisangelarocha.dev@gmail.com", NULL);
+
