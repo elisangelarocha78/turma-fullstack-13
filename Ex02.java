@@ -19,6 +19,7 @@ public class Ex02 {
         System.out.println("\nVolume total distribuído no período: " + total + " litros");
 
         scanner.close();
+        // correção de código.
     }
 }
 
